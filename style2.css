@@ -7,14 +7,21 @@ header {
     background-color: #2E354F;
     padding: 20px 0;
 }
+h1 {
+    margin: 0;
+}
 
 .header-text {
     color: white
 }
 
+.section-one {
+    padding: 10px 0;
+}
+
 .section-two {
     background-color: #2E354F;
-    padding: 6px 0 20px 0;
+    padding: 10px 0;
 }
 
 .container {
@@ -24,11 +31,13 @@ header {
 
 img{ 
     width: 620px;
+    padding-top: 10px;
 }
 
 h2 {
     color: #ef5839;
     font-size: 24px;
+    margin: 0;
 }
 
 .internal-link {
