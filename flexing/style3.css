@@ -56,4 +56,12 @@ img {
     width: 70%;
 }
 
+@media (max-width: 600px) {
+    .columns {
+        flex-direction: column;
+    }
 
+    .col {
+        width: 90%;
+    }
+}
